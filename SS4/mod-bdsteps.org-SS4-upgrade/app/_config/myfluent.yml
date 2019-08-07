@@ -1,0 +1,14 @@
+---
+Name: myfluentconfig
+
+After: -fluentconfig
+---
+TractorCow\Fluent\Extension\FluentDirectorExtension:
+  disable_default_prefix: true
+
+Fluent:
+  Locales: 
+  - es_ES
+
+  Aliases:
+    es_ES: 'es'
