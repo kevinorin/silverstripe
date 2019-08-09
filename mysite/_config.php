@@ -18,7 +18,7 @@ $databaseConfig = array(
     "server" => "localhost", 
     "username" => "root", 
     "password" => "aa123", 
-    "database" => "bdsteps",
+    "database" => "dbsteps",
     "path" => '',
 );
 

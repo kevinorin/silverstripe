@@ -9,3 +9,6 @@ sortablegridfield/
 userforms/
 userforms/
 segment-field/
+static/
+translatable/
+_ss_environment.php
