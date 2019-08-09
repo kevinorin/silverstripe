@@ -4,12 +4,21 @@ global $project;
 $project = 'mysite';
 
 global $databaseConfig;
+// $databaseConfig = array(
+//     "type" => 'MySQLDatabase',
+//     "server" => "localhost", 
+//     "username" => "modbdste_cmsuser", 
+//     "password" => "5f@dmOD2zgp1", 
+//     "database" => "modbdste_maincms",
+//     "path" => '',
+// );
+
 $databaseConfig = array(
     "type" => 'MySQLDatabase',
     "server" => "localhost", 
-    "username" => "modbdste_cmsuser", 
-    "password" => "5f@dmOD2zgp1", 
-    "database" => "modbdste_maincms",
+    "username" => "root", 
+    "password" => "aa123", 
+    "database" => "bdsteps",
     "path" => '',
 );
 
